@@ -1,0 +1,3 @@
+This is the first entry in test1.txt
+Second entry in master.
+Hi there.
